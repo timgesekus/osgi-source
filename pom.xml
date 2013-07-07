@@ -9,7 +9,7 @@
 	<artifactId>source</artifactId>
 
 	<scm>
-		<developerConnection>git:ssh://git@github.com:timgesekus/osgi-source.git</developerConnection>
+		<developerConnection>git:ssh://git@github.com/timgesekus/osgi-source.git</developerConnection>
   </scm>
 	<build>
 		<plugins>
